@@ -1,4 +1,6 @@
 # material-ui-chip-input
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/TeamWertarbyte/material-ui-chip-input.svg)](https://greenkeeper.io/)
 This project provides a [chip input field][chipspec] for [Material-UI][mui]. It is inspired by [Angular Material's chip input][angular-chips].
 
 ![Demo](demo.gif)
